@@ -1,0 +1,20 @@
+.res_main-container {
+  border: 1px solid #264A48;
+	width: 250px;
+	height: 250px;
+	background: #ffffff;
+	padding: 8px;
+}
+
+.res_title {
+	color: #264A48;
+	font-size: 32px;
+}
+
+.res_cancel-button {
+	width: 80%;
+	height: 40px;
+	background: #264A48;
+	border-radius: 5px;
+	color: #ffffff;
+}
