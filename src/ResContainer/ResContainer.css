@@ -1,9 +1,10 @@
 .res_main-container {
   border: 1px solid #264A48;
-	width: 250px;
-	height: 250px;
+	width: 275px;
+	height: 170px;
 	background: #ffffff;
-	padding: 8px;
+	/*padding: 8px;*/
+	margin-top: 10px;
 }
 
 .res_title {
@@ -18,3 +19,4 @@
 	border-radius: 5px;
 	color: #ffffff;
 }
+

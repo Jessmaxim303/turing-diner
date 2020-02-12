@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
+* {
+  margin: 0;
+  padding: 0;
+  /*border: 1px solid red;*/
+}
+
 .App {
   display: flex;
   flex-direction: column;
@@ -21,4 +27,6 @@
 .resy-container {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 10px;
 }
